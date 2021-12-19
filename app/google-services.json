@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "691729808852",
+    "firebase_url": "https://chatapplication-c349c-default-rtdb.firebaseio.com",
+    "project_id": "chatapplication-c349c",
+    "storage_bucket": "chatapplication-c349c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691729808852:android:6417474556172ca5842a41",
+        "android_client_info": {
+          "package_name": "org.techtown.newchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691729808852-uhmn08nlcgip8516c7fns2tk0mck8f1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.techtown.newchat",
+            "certificate_hash": "ac4217acaa985e32ccaffe4a014f19bc60391d64"
+          }
+        },
+        {
+          "client_id": "691729808852-tgck18so20vfp0a5p2p07q2f4tbhmq9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4DQ702kuVXSP_GOb7OutnMGjaNE1zENY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691729808852-tgck18so20vfp0a5p2p07q2f4tbhmq9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
